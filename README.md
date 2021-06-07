@@ -1,6 +1,5 @@
 # Data-Structures_&_Algorithm
 ----------------------
---------------------
 
 A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. ... Our DSA tutorial will guide you to learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.
 
@@ -15,3 +14,13 @@ To write algorithm
 >Update − Algorithm to update an existing item in a data structure.
 
 >Delete − Algorithm to delete an existing item from a data structure.
+
+
+An algorithm must have five properties:
+-------------------------------
+
+* Input specified.
+* Output specified.
+* Definiteness.
+* Effectiveness.
+* Finiteness.
